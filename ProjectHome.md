@@ -1,0 +1,1 @@
+activemq-store-mongodb is a mongodb-persistence adapter for activemq
